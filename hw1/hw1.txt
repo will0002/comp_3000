@@ -1,0 +1,7 @@
+a. 'programming is fundamentally a design activity ant the only final and true representation of "the design" is the source code itself.'
+
+b. The author's assertion is that many people do not regard programming is not a form of design.
+
+c. "because it makes it easier to design software and program at the same time."
+
+d. "The process is error prone and not particularly rigorous to begin with.  The fact that a great many software developers do not want to believe that this is the way it works compounds the problem enormously."
